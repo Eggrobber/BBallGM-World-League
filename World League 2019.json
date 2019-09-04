@@ -1,0 +1,4449 @@
+{
+  "version": 24,
+  "meta": {
+    "phaseText": "2019 preseason",
+    "name": "World League"
+  },
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 1,
+      "did": 3,
+      "region": "Tokyo",
+      "name": "Carp",
+      "abbrev": "TOK",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 53.34,
+          "rank": 13
+        },
+        "scouting": {
+          "amount": 19390,
+          "rank": 13
+        },
+        "coaching": {
+          "amount": 19390,
+          "rank": 13
+        },
+        "health": {
+          "amount": 19390,
+          "rank": 13
+        },
+        "facilities": {
+          "amount": 19390,
+          "rank": 13
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 0,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.2653700945522439,
+          "pop": 33.2,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 0
+        }
+      ],
+      "stats": [
+        {
+          "tid": 0,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 0
+        }
+      ]
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 0,
+      "region": "New York",
+      "name": "Bald Eagles",
+      "abbrev": "NYB",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 57.65,
+          "rank": 8
+        },
+        "scouting": {
+          "amount": 20940,
+          "rank": 8
+        },
+        "coaching": {
+          "amount": 20940,
+          "rank": 8
+        },
+        "health": {
+          "amount": 20940,
+          "rank": 8
+        },
+        "facilities": {
+          "amount": 20940,
+          "rank": 8
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 1,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.31764457159001336,
+          "pop": 17.8,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 1
+        }
+      ],
+      "stats": [
+        {
+          "tid": 1,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 1
+        }
+      ]
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 2,
+      "region": "Sao Paulo",
+      "name": "Songbirds",
+      "abbrev": "SPS",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 62.82,
+          "rank": 2
+        },
+        "scouting": {
+          "amount": 22800,
+          "rank": 2
+        },
+        "coaching": {
+          "amount": 22800,
+          "rank": 2
+        },
+        "health": {
+          "amount": 22800,
+          "rank": 2
+        },
+        "facilities": {
+          "amount": 22800,
+          "rank": 2
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 2,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8636766924044454,
+          "pop": 17.7,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 2
+        }
+      ],
+      "stats": [
+        {
+          "tid": 2,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 2
+        }
+      ]
+    },
+    {
+      "tid": 3,
+      "cid": 1,
+      "did": 3,
+      "region": "Seoul",
+      "name": "Magpies",
+      "abbrev": "SEO",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/2000px-Flag_of_South_Korea.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 45.58,
+          "rank": 22
+        },
+        "scouting": {
+          "amount": 16600,
+          "rank": 22
+        },
+        "coaching": {
+          "amount": 16600,
+          "rank": 22
+        },
+        "health": {
+          "amount": 16600,
+          "rank": 22
+        },
+        "facilities": {
+          "amount": 16600,
+          "rank": 22
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 3,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9010256658364093,
+          "pop": 17.5,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 3
+        }
+      ],
+      "stats": [
+        {
+          "tid": 3,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 3
+        }
+      ]
+    },
+    {
+      "tid": 4,
+      "cid": 0,
+      "did": 2,
+      "region": "Mexico City",
+      "name": "Jaguar",
+      "abbrev": "MCJ",
+      "imgURL": "data:image/jpeg;base64,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",
+      "budget": {
+        "ticketPrice": {
+          "amount": 60.24,
+          "rank": 5
+        },
+        "scouting": {
+          "amount": 21870,
+          "rank": 5
+        },
+        "coaching": {
+          "amount": 21870,
+          "rank": 5
+        },
+        "health": {
+          "amount": 21870,
+          "rank": 5
+        },
+        "facilities": {
+          "amount": 21870,
+          "rank": 5
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 4,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.08074764781475219,
+          "pop": 17.4,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 4
+        }
+      ],
+      "stats": [
+        {
+          "tid": 4,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 4
+        }
+      ]
+    },
+    {
+      "tid": 5,
+      "cid": 1,
+      "did": 3,
+      "region": "Osaka",
+      "name": "Pheasants",
+      "abbrev": "OSA",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 48.17,
+          "rank": 19
+        },
+        "scouting": {
+          "amount": 17530,
+          "rank": 19
+        },
+        "coaching": {
+          "amount": 17530,
+          "rank": 19
+        },
+        "health": {
+          "amount": 17530,
+          "rank": 19
+        },
+        "facilities": {
+          "amount": 17530,
+          "rank": 19
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 5,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.5929734882256226,
+          "pop": 16.425,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 5
+        }
+      ],
+      "stats": [
+        {
+          "tid": 5,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 5
+        }
+      ]
+    },
+    {
+      "tid": 6,
+      "cid": 1,
+      "did": 3,
+      "region": "Manila",
+      "name": "Komodo Dragons",
+      "abbrev": "MKD",
+      "imgURL": "https://i.ytimg.com/vi/OgYwiBFMr8w/maxresdefault.jpg",
+      "budget": {
+        "ticketPrice": {
+          "amount": 56.79,
+          "rank": 9
+        },
+        "scouting": {
+          "amount": 20630,
+          "rank": 9
+        },
+        "coaching": {
+          "amount": 20630,
+          "rank": 9
+        },
+        "health": {
+          "amount": 20630,
+          "rank": 9
+        },
+        "facilities": {
+          "amount": 20630,
+          "rank": 9
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 6,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.24956579897989917,
+          "pop": 14.75,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 6
+        }
+      ],
+      "stats": [
+        {
+          "tid": 6,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 6
+        }
+      ]
+    },
+    {
+      "tid": 7,
+      "cid": 1,
+      "did": 5,
+      "region": "Mumbai",
+      "name": "King Cobras",
+      "abbrev": "MKC",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 49.03,
+          "rank": 18
+        },
+        "scouting": {
+          "amount": 17840,
+          "rank": 18
+        },
+        "coaching": {
+          "amount": 17840,
+          "rank": 18
+        },
+        "health": {
+          "amount": 17840,
+          "rank": 18
+        },
+        "facilities": {
+          "amount": 17840,
+          "rank": 18
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 7,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.07665872361106563,
+          "pop": 14.35,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 7
+        }
+      ],
+      "stats": [
+        {
+          "tid": 7,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 7
+        }
+      ]
+    },
+    {
+      "tid": 8,
+      "cid": 1,
+      "did": 5,
+      "region": "Delhi",
+      "name": "Bengal Tigers",
+      "abbrev": "DBT",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 51.62,
+          "rank": 15
+        },
+        "scouting": {
+          "amount": 18770,
+          "rank": 15
+        },
+        "coaching": {
+          "amount": 18770,
+          "rank": 15
+        },
+        "health": {
+          "amount": 18770,
+          "rank": 15
+        },
+        "facilities": {
+          "amount": 18770,
+          "rank": 15
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 8,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.6521193146233968,
+          "pop": 14.3,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 8
+        }
+      ],
+      "stats": [
+        {
+          "tid": 8,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 8
+        }
+      ]
+    },
+    {
+      "tid": 9,
+      "cid": 1,
+      "did": 5,
+      "region": "Jakarta",
+      "name": "Elephants",
+      "abbrev": "JAK",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 58.51,
+          "rank": 7
+        },
+        "scouting": {
+          "amount": 21250,
+          "rank": 7
+        },
+        "coaching": {
+          "amount": 21250,
+          "rank": 7
+        },
+        "health": {
+          "amount": 21250,
+          "rank": 7
+        },
+        "facilities": {
+          "amount": 21250,
+          "rank": 7
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 9,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9266157888589914,
+          "pop": 14.25,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 9
+        }
+      ],
+      "stats": [
+        {
+          "tid": 9,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 9
+        }
+      ]
+    },
+    {
+      "tid": 10,
+      "cid": 1,
+      "did": 1,
+      "region": "Lagos",
+      "name": "Cranes",
+      "abbrev": "LAG",
+      "imgURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAG1BMVEUAh1H///85n3TW6uIAgUgMjVpCpHsIi1cZk2I39oa3AAABgklEQVR4nO3QyQ3DQBADwfGxkvKP2EE0MA+jKgGCPc/ZMdfnteRzzdKpZ+7Z8X3v5Xt/l07dc5aW/jLfka+QL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS85cy8t/WW+e56zY669fNcsnXp+dB5aHcWJ7Y8AAAAASUVORK5CYII=",
+      "budget": {
+        "ticketPrice": {
+          "amount": 55.06,
+          "rank": 11
+        },
+        "scouting": {
+          "amount": 20010,
+          "rank": 11
+        },
+        "coaching": {
+          "amount": 20010,
+          "rank": 11
+        },
+        "health": {
+          "amount": 20010,
+          "rank": 11
+        },
+        "facilities": {
+          "amount": 20010,
+          "rank": 11
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 10,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9921835223613562,
+          "pop": 13.4,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 10
+        }
+      ],
+      "stats": [
+        {
+          "tid": 10,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 10
+        }
+      ]
+    },
+    {
+      "tid": 11,
+      "cid": 1,
+      "did": 5,
+      "region": "Kolkata",
+      "name": "Dolphins",
+      "abbrev": "KOL",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 42.13,
+          "rank": 26
+        },
+        "scouting": {
+          "amount": 15360,
+          "rank": 26
+        },
+        "coaching": {
+          "amount": 15360,
+          "rank": 26
+        },
+        "health": {
+          "amount": 15360,
+          "rank": 26
+        },
+        "facilities": {
+          "amount": 15360,
+          "rank": 26
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 11,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.21268098950407865,
+          "pop": 12.7,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 11
+        }
+      ],
+      "stats": [
+        {
+          "tid": 11,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 11
+        }
+      ]
+    },
+    {
+      "tid": 12,
+      "cid": 0,
+      "did": 1,
+      "region": "Cairo",
+      "name": "Steppe Eagles",
+      "abbrev": "CSE",
+      "imgURL": "data:image/png;base64,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",
+      "budget": {
+        "ticketPrice": {
+          "amount": 61.1,
+          "rank": 4
+        },
+        "scouting": {
+          "amount": 22180,
+          "rank": 4
+        },
+        "coaching": {
+          "amount": 22180,
+          "rank": 4
+        },
+        "health": {
+          "amount": 22180,
+          "rank": 4
+        },
+        "facilities": {
+          "amount": 22180,
+          "rank": 4
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 12,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.22543850359943773,
+          "pop": 12.2,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 12
+        }
+      ],
+      "stats": [
+        {
+          "tid": 12,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 12
+        }
+      ]
+    },
+    {
+      "tid": 13,
+      "cid": 0,
+      "did": 0,
+      "region": "Los Angeles",
+      "name": "Bison",
+      "abbrev": "LAB",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 61.96,
+          "rank": 3
+        },
+        "scouting": {
+          "amount": 22490,
+          "rank": 3
+        },
+        "coaching": {
+          "amount": 22490,
+          "rank": 3
+        },
+        "health": {
+          "amount": 22490,
+          "rank": 3
+        },
+        "facilities": {
+          "amount": 22490,
+          "rank": 3
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 13,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8641712145970375,
+          "pop": 11.789,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 13
+        }
+      ],
+      "stats": [
+        {
+          "tid": 13,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 13
+        }
+      ]
+    },
+    {
+      "tid": 14,
+      "cid": 0,
+      "did": 2,
+      "region": "Buenos Aires",
+      "name": "Armadillos",
+      "abbrev": "BAA",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 38.69,
+          "rank": 30
+        },
+        "scouting": {
+          "amount": 14120,
+          "rank": 30
+        },
+        "coaching": {
+          "amount": 14120,
+          "rank": 30
+        },
+        "health": {
+          "amount": 14120,
+          "rank": 30
+        },
+        "facilities": {
+          "amount": 14120,
+          "rank": 30
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 14,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8275704943151532,
+          "pop": 11.2,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 14
+        }
+      ],
+      "stats": [
+        {
+          "tid": 14,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 14
+        }
+      ]
+    },
+    {
+      "tid": 15,
+      "cid": 0,
+      "did": 2,
+      "region": "Rio de Janeiro",
+      "name": "Anteaters",
+      "abbrev": "RJA",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 54.2,
+          "rank": 12
+        },
+        "scouting": {
+          "amount": 19700,
+          "rank": 12
+        },
+        "coaching": {
+          "amount": 19700,
+          "rank": 12
+        },
+        "health": {
+          "amount": 19700,
+          "rank": 12
+        },
+        "facilities": {
+          "amount": 19700,
+          "rank": 12
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 15,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.4352999917192988,
+          "pop": 10.8,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 15
+        }
+      ],
+      "stats": [
+        {
+          "tid": 15,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 15
+        }
+      ]
+    },
+    {
+      "tid": 16,
+      "cid": 0,
+      "did": 1,
+      "region": "Moscow",
+      "name": "Bears",
+      "abbrev": "MOS",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/archive/f/f3/20120812153730%21Flag_of_Russia.svg",
+      "budget": {
+        "ticketPrice": {
+          "amount": 41.27,
+          "rank": 27
+        },
+        "scouting": {
+          "amount": 15050,
+          "rank": 27
+        },
+        "coaching": {
+          "amount": 15050,
+          "rank": 27
+        },
+        "health": {
+          "amount": 15050,
+          "rank": 27
+        },
+        "facilities": {
+          "amount": 15050,
+          "rank": 27
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 16,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8823330135358995,
+          "pop": 10.5,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 16
+        }
+      ],
+      "stats": [
+        {
+          "tid": 16,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 16
+        }
+      ]
+    },
+    {
+      "tid": 17,
+      "cid": 1,
+      "did": 4,
+      "region": "Shanghai",
+      "name": "Pandas",
+      "abbrev": "SHA",
+      "imgURL": "http://www.china-family-adventure.com/image-files/china-flag.jpg",
+      "budget": {
+        "ticketPrice": {
+          "amount": 49.89,
+          "rank": 17
+        },
+        "scouting": {
+          "amount": 18150,
+          "rank": 17
+        },
+        "coaching": {
+          "amount": 18150,
+          "rank": 17
+        },
+        "health": {
+          "amount": 18150,
+          "rank": 17
+        },
+        "facilities": {
+          "amount": 18150,
+          "rank": 17
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 17,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.1700264946201946,
+          "pop": 10,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 17
+        }
+      ],
+      "stats": [
+        {
+          "tid": 17,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 17
+        }
+      ]
+    },
+    {
+      "tid": 18,
+      "cid": 1,
+      "did": 5,
+      "region": "Karachi",
+      "name": "Crocodiles",
+      "abbrev": "KAR",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/255px-Flag_of_Pakistan.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 39.55,
+          "rank": 29
+        },
+        "scouting": {
+          "amount": 14430,
+          "rank": 29
+        },
+        "coaching": {
+          "amount": 14430,
+          "rank": 29
+        },
+        "health": {
+          "amount": 14430,
+          "rank": 29
+        },
+        "facilities": {
+          "amount": 14430,
+          "rank": 29
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 18,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.7555990275465234,
+          "pop": 9.8,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 18
+        }
+      ],
+      "stats": [
+        {
+          "tid": 18,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 18
+        }
+      ]
+    },
+    {
+      "tid": 19,
+      "cid": 0,
+      "did": 0,
+      "region": "Paris",
+      "name": "Roosters",
+      "abbrev": "PAR",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1024px-Flag_of_France.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 63.69,
+          "rank": 1
+        },
+        "scouting": {
+          "amount": 23120,
+          "rank": 1
+        },
+        "coaching": {
+          "amount": 23120,
+          "rank": 1
+        },
+        "health": {
+          "amount": 23120,
+          "rank": 1
+        },
+        "facilities": {
+          "amount": 23120,
+          "rank": 1
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 19,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.46851185858366073,
+          "pop": 9.645,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 19
+        }
+      ],
+      "stats": [
+        {
+          "tid": 19,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 19
+        }
+      ]
+    },
+    {
+      "tid": 20,
+      "cid": 0,
+      "did": 4,
+      "region": "Istanbul",
+      "name": "Wolves",
+      "abbrev": "IST",
+      "imgURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAhFBMVEX/AAD/////qan/+vr/3Nz/1tb/PT3/uLj/ysr/8/P/EhL/5OT/6ur/4OD/7u7/zs7/KCj/MjL/ZWX/UVH/SEj/Xl7/srL/vr7/Ghr/WVn/nJz/dnb/QUH/l5f/ODj/jo7/hob/b2//bGz/fn7/pqb/GRn/TEz/dXX/iYn/IiL/kpL/w8PyAEnFAAADpElEQVR4nO3daXOqMBSAYcUFQQXBBXHfa/X//7+rrbbTm4PV6RFQ3+drpyScyZ4QCwUAAAAAAAAAAAAAAAAAAAAAAICMuK1JZxN3u9243am2+llnJ3Ot9tvYivymVyoeOPVK1BvM4ombdb4yE8ytWtkpGuq+PetknbksuGGv7JnxOHHqtWWQdRZT5s7KpcSAfCo1VtWss5mi0a7xS0BOYbHjF2lZRrvmVRH5qEPWK0RlPfR/qzU/NMdPX4NGveSGNaEC+YusM31fi8ov729Nh2E3juNuONxapxLlbJ94ILceC6ORr3iUx/H/7+62d5VjXKJRJvlNQRAlBsRp7JJGaaNt0yk2w1RzmprOPiki3n7ZuvCP/bfIqy9Ty2eK2rWkShPNL0Xk6H0RPWNQNkkhqVwsI2etpf10QakmhaR37fAj2M3vmsPUBb4ckeYt7xk/1WTZteWQ+JubHhNcU8sehDuVQxLduhzwvr5L/rKwkKfB9u0rJE8zIazKA3p7knXGstPv6VScZ/ImzoT9Vw7JROyGy7f1OE9mKi4haa2JPOTgNqhLIelpPd6eaT0pRTMpJBW1LsdyHq8S9qWhSUmvxFvF5sMNbsViYuu9hnXo1B9sINeXhmsNxQnuISbOg7WzoTQ22SuWdusY48eaL1tCSJyhdgJ7xQfeXSBVnfq7YgqfQR+bf1jntemdS73OVDOFU0H8uazvBl2rIcQpFwZCSEqqezWnmHjfAx63M1wdiudAMxVFLWlDp6KaxLnBsk8VcrS0P3fJ8tpBd6TmZKeaxDkmpWONDAb++dxTXluTQihthbZVk/ju2MLQ876mm/ndNtxKzYluoZY6e7EfyglXamJ93TTEmNQ0e3td4qKjpZvGSkii0dVNQ1NL2vvbKibghpZwDMzRTEJbUBZiojf/21hNcaVXt7NXNpGyrNQjdAZewrE4L9eHmqpSruM/P9YN4lXyWdJSvvcDRlKe/zo8GX2M3JOpzqb03SMm7vTCkbijvI7pTygnJtoTE/2OifGJiXGsifmOiXmxgPUTE+tsJtZjTazbC9jfMbEPaGK/WMC5AhPnT0ycUxJwns3EuUcB52NNnKMWcN7exHcZAr7fMfGdl4DvAQV8N2ri+2IB36ELuK9AwL0WAu4/EXBPjoD7lATcuyXgfjbJNff4LV7qHr8C9z2KuBdUwv2xEu4ZFnEftYB7y0Xcby/idxBk/F4GAAAAAAAAAAAAAAAAAAAAAAB4Af8AXrtC+gliewsAAAAASUVORK5CYII=",
+      "budget": {
+        "ticketPrice": {
+          "amount": 40.41,
+          "rank": 28
+        },
+        "scouting": {
+          "amount": 14740,
+          "rank": 28
+        },
+        "coaching": {
+          "amount": 14740,
+          "rank": 28
+        },
+        "health": {
+          "amount": 14740,
+          "rank": 28
+        },
+        "facilities": {
+          "amount": 14740,
+          "rank": 28
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 20,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.5724419233487046,
+          "pop": 9,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 20
+        }
+      ],
+      "stats": [
+        {
+          "tid": 20,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 20
+        }
+      ]
+    },
+    {
+      "tid": 21,
+      "cid": 1,
+      "did": 3,
+      "region": "Nagoya",
+      "name": "Sea Otters",
+      "abbrev": "NSO",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 47.31,
+          "rank": 20
+        },
+        "scouting": {
+          "amount": 17220,
+          "rank": 20
+        },
+        "coaching": {
+          "amount": 17220,
+          "rank": 20
+        },
+        "health": {
+          "amount": 17220,
+          "rank": 20
+        },
+        "facilities": {
+          "amount": 17220,
+          "rank": 20
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 21,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.3920449815630338,
+          "pop": 9,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 21
+        }
+      ],
+      "stats": [
+        {
+          "tid": 21,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 21
+        }
+      ]
+    },
+    {
+      "tid": 22,
+      "cid": 1,
+      "did": 4,
+      "region": "Beijing",
+      "name": "Dragons",
+      "abbrev": "BEI",
+      "imgURL": "http://www.china-family-adventure.com/image-files/china-flag.jpg",
+      "budget": {
+        "ticketPrice": {
+          "amount": 55.93,
+          "rank": 10
+        },
+        "scouting": {
+          "amount": 20320,
+          "rank": 10
+        },
+        "coaching": {
+          "amount": 20320,
+          "rank": 10
+        },
+        "health": {
+          "amount": 20320,
+          "rank": 10
+        },
+        "facilities": {
+          "amount": 20320,
+          "rank": 10
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 22,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.6032598365208588,
+          "pop": 8.614,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 22
+        }
+      ],
+      "stats": [
+        {
+          "tid": 22,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 22
+        }
+      ]
+    },
+    {
+      "tid": 23,
+      "cid": 0,
+      "did": 0,
+      "region": "Chicago",
+      "name": "Bullets",
+      "abbrev": "CHI",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 50.75,
+          "rank": 16
+        },
+        "scouting": {
+          "amount": 18460,
+          "rank": 16
+        },
+        "coaching": {
+          "amount": 18460,
+          "rank": 16
+        },
+        "health": {
+          "amount": 18460,
+          "rank": 16
+        },
+        "facilities": {
+          "amount": 18460,
+          "rank": 16
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 23,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.6805643970276878,
+          "pop": 8.308,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 23
+        }
+      ],
+      "stats": [
+        {
+          "tid": 23,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 23
+        }
+      ]
+    },
+    {
+      "tid": 24,
+      "cid": 0,
+      "did": 0,
+      "region": "London",
+      "name": "Lions",
+      "abbrev": "LON",
+      "imgURL": "data:image/png;base64,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",
+      "budget": {
+        "ticketPrice": {
+          "amount": 46.44,
+          "rank": 21
+        },
+        "scouting": {
+          "amount": 16910,
+          "rank": 21
+        },
+        "coaching": {
+          "amount": 16910,
+          "rank": 21
+        },
+        "health": {
+          "amount": 16910,
+          "rank": 21
+        },
+        "facilities": {
+          "amount": 16910,
+          "rank": 21
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 24,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8506932366759972,
+          "pop": 8.278,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 24
+        }
+      ],
+      "stats": [
+        {
+          "tid": 24,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 24
+        }
+      ]
+    },
+    {
+      "tid": 25,
+      "cid": 1,
+      "did": 4,
+      "region": "Shenzhen",
+      "name": "Dolphins",
+      "abbrev": "SHE",
+      "imgURL": "http://www.china-family-adventure.com/image-files/china-flag.jpg",
+      "budget": {
+        "ticketPrice": {
+          "amount": 44.72,
+          "rank": 23
+        },
+        "scouting": {
+          "amount": 16290,
+          "rank": 23
+        },
+        "coaching": {
+          "amount": 16290,
+          "rank": 23
+        },
+        "health": {
+          "amount": 16290,
+          "rank": 23
+        },
+        "facilities": {
+          "amount": 16290,
+          "rank": 23
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 25,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9220625587418914,
+          "pop": 8,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 25
+        }
+      ],
+      "stats": [
+        {
+          "tid": 25,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 25
+        }
+      ]
+    },
+    {
+      "tid": 26,
+      "cid": 0,
+      "did": 1,
+      "region": "Dusseldorf",
+      "name": "Squid",
+      "abbrev": "DUS",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schwarz_Rot_Gold.svg/220px-Schwarz_Rot_Gold.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 43,
+          "rank": 25
+        },
+        "scouting": {
+          "amount": 15670,
+          "rank": 25
+        },
+        "coaching": {
+          "amount": 15670,
+          "rank": 25
+        },
+        "health": {
+          "amount": 15670,
+          "rank": 25
+        },
+        "facilities": {
+          "amount": 15670,
+          "rank": 25
+        }
+      },
+      "strategy": "contending",
+      "seasons": [
+        {
+          "tid": 26,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.18113208762659827,
+          "pop": 7.35,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 26
+        }
+      ],
+      "stats": [
+        {
+          "tid": 26,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 26
+        }
+      ]
+    },
+    {
+      "tid": 27,
+      "cid": 1,
+      "did": 4,
+      "region": "Tehran",
+      "name": "Panthers",
+      "abbrev": "TEH",
+      "imgURL": "http://iranflag.facts.co/iranflagof/IranFlag1979.jpg",
+      "budget": {
+        "ticketPrice": {
+          "amount": 52.48,
+          "rank": 14
+        },
+        "scouting": {
+          "amount": 19080,
+          "rank": 14
+        },
+        "coaching": {
+          "amount": 19080,
+          "rank": 14
+        },
+        "health": {
+          "amount": 19080,
+          "rank": 14
+        },
+        "facilities": {
+          "amount": 19080,
+          "rank": 14
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 27,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.8831947326164373,
+          "pop": 7.25,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 27
+        }
+      ],
+      "stats": [
+        {
+          "tid": 27,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 27
+        }
+      ]
+    },
+    {
+      "tid": 28,
+      "cid": 0,
+      "did": 1,
+      "region": "Johannesburg",
+      "name": "Springbok",
+      "abbrev": "JOH",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/255px-Flag_of_Colombia.svg.png",
+      "budget": {
+        "ticketPrice": {
+          "amount": 43.86,
+          "rank": 24
+        },
+        "scouting": {
+          "amount": 15980,
+          "rank": 24
+        },
+        "coaching": {
+          "amount": 15980,
+          "rank": 24
+        },
+        "health": {
+          "amount": 15980,
+          "rank": 24
+        },
+        "facilities": {
+          "amount": 15980,
+          "rank": 24
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 28,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.7635302824937495,
+          "pop": 6,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 28
+        }
+      ],
+      "stats": [
+        {
+          "tid": 28,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 28
+        }
+      ]
+    },
+    {
+      "tid": 29,
+      "cid": 0,
+      "did": 2,
+      "region": "Lima",
+      "name": "Camels",
+      "abbrev": "LIM",
+      "imgURL": "data:image/png;base64,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",
+      "budget": {
+        "ticketPrice": {
+          "amount": 59.38,
+          "rank": 6
+        },
+        "scouting": {
+          "amount": 21560,
+          "rank": 6
+        },
+        "coaching": {
+          "amount": 21560,
+          "rank": 6
+        },
+        "health": {
+          "amount": 21560,
+          "rank": 6
+        },
+        "facilities": {
+          "amount": 21560,
+          "rank": 6
+        }
+      },
+      "strategy": "rebuilding",
+      "seasons": [
+        {
+          "tid": 29,
+          "season": 2017,
+          "gp": 0,
+          "gpHome": 0,
+          "att": 0,
+          "cash": 10000,
+          "won": 0,
+          "lost": 0,
+          "wonHome": 0,
+          "lostHome": 0,
+          "wonAway": 0,
+          "lostAway": 0,
+          "wonDiv": 0,
+          "lostDiv": 0,
+          "wonConf": 0,
+          "lostConf": 0,
+          "lastTen": [],
+          "streak": 0,
+          "playoffRoundsWon": -1,
+          "hype": 0.9990313858707938,
+          "pop": 7,
+          "revenues": {
+            "luxuryTaxShare": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "merch": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "sponsor": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "ticket": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "nationalTv": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "localTv": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "expenses": {
+            "salary": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "luxuryTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "minTax": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "scouting": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "coaching": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "health": {
+              "amount": 0,
+              "rank": 15.5
+            },
+            "facilities": {
+              "amount": 0,
+              "rank": 15.5
+            }
+          },
+          "payrollEndOfSeason": -1,
+          "rid": 29
+        }
+      ],
+      "stats": [
+        {
+          "tid": 29,
+          "season": 2017,
+          "playoffs": false,
+          "gp": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "orb": 0,
+          "drb": 0,
+          "trb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "oppPts": 0,
+          "rid": 29
+        }
+      ]
+    }
+  ]
+}
