@@ -1487,7 +1487,7 @@
     },
     {
       "tid": 10,
-      "cid": 1,
+      "cid": 0,
       "did": 1,
       "region": "Lagos",
       "name": "Cranes",
@@ -3710,7 +3710,7 @@
       "cid": 1,
       "did": 4,
       "region": "Shenzhen",
-      "name": "Dolphins",
+      "name": "Cobras",
       "abbrev": "SHE",
       "imgURL": "http://www.china-family-adventure.com/image-files/china-flag.jpg",
       "budget": {
